@@ -1,2 +1,43 @@
 # Optimization-Tools-And-Notes
-Tools and notes for C#/.NET optimization. Whether it's size or speed. This is different from my [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet) repo as that is mostly code tricks for performance, and this is mostly tools to help understand and make performance better.
+Tools and notes for C#/.NET optimization. Whether it's size or speed. 
+
+This is different from my [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet) repo as that is mostly code tricks for performance, and this is mostly tools to help understand and make performance better.
+
+## Visual Studio Profiler
+
+Built-in code profiler for Visual Studio
+
+[Official Docs](https://learn.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
+[Reducing Compute Costs Docs](https://learn.microsoft.com/en-us/visualstudio/profiling/optimize-code-using-profiling-tools?view=vs-2022)
+
+## ILSpy
+
+.NET Decompiler
+
+[GitHub Repo](https://github.com/icsharpcode/ILSpy)
+
+## Sizoscope
+
+.NET tool to analyze size of Native AOT binaries
+
+[GitHub Repo](https://github.com/MichalStrehovsky/sizoscope)
+
+## SharpLab
+
+.NET language playground. See decompiled code on the fly in-browser
+
+[SharpLab.io](https://sharplab.io/)
+
+## BenchmarkDotNet
+
+Powerful .NET library for benchmarking
+
+[Official Site](https://benchmarkdotnet.org/)
+
+[GitHub Repo](https://github.com/dotnet/BenchmarkDotNet)
+
+## DependencyGraphViewer
+
+See what methods are kept after AOT trimming
+
+[GitHub Repo](https://github.com/dotnet/runtime/tree/main/src/coreclr/tools/aot/DependencyGraphViewer)
