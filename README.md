@@ -1,4 +1,4 @@
-# Optimization-Tools-And-Notes
+# Optimization Tools And Notes
 Tools and notes for C#/.NET optimization. Whether it's size or speed. 
 
 This is different from my [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet) repo as that is mostly code tricks for performance, and this is mostly tools to help understand and make performance better.
@@ -41,3 +41,11 @@ Powerful .NET library for benchmarking
 See what methods are kept after AOT trimming
 
 [GitHub Repo](https://github.com/dotnet/runtime/tree/main/src/coreclr/tools/aot/DependencyGraphViewer)
+
+## DUMPBIN
+
+See what is inside a DLL (or other binary files)
+```
+dumpbin /EXPORTS C:\Windows\System32\msvcr120.dll > C:\Temp\dump.txt
+```
+[Official Docs](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/c1h23y6c(v=vs.90))
