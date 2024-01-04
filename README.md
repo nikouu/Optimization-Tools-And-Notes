@@ -49,3 +49,14 @@ See what is inside a DLL (or other binary files)
 dumpbin /EXPORTS C:\Windows\System32\msvcr120.dll > C:\Temp\dump.txt
 ```
 [Official Docs](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/c1h23y6c(v=vs.90))
+
+## Ildasm
+
+Old school ILSpy
+
+```
+ildasm binary.dll
+// or
+ildasm binary.exe
+```
+[Official Docs](https://learn.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler)
