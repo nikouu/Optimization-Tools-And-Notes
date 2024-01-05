@@ -3,6 +3,8 @@ Tools and notes for C#/.NET optimization. Whether it's size or speed.
 
 This is different from my [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet) repo as that is mostly code tricks for performance, and this is mostly tools to help understand and make performance better.
 
+Want to see how Microsoft does it? Check out their [documentation for profiling dotnet/runtime](https://github.com/dotnet/performance/blob/main/docs/profiling-workflow-dotnet-runtime.md).
+
 ## Visual Studio Profiler
 
 Built-in code profiler for Visual Studio
