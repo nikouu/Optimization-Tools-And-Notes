@@ -62,3 +62,10 @@ ildasm binary.dll
 ildasm binary.exe
 ```
 [Official Docs](https://learn.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler)
+
+## Disasmo
+
+Visual Studio extension to disassemble methods or classes. Similar to IlLSpy but in Visual Studio.
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EgorBogatov.Disasmo)
+[Disasmo GitHub](https://github.com/EgorBo/Disasmo)
