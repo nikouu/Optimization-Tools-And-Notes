@@ -78,4 +78,4 @@ The results of [dotnet/performance](https://github.com/dotnet/performance) runs 
 
 - [nietras/Sep](https://github.com/nietras/Sep): The World's Fastest .NET CSV Parser
 - [noahfalk/1brc](https://github.com/noahfalk/1brc): 1 Billion Rows Challenge leader
-- [Cysharp/MemoryPack]: Zero encoding extreme performance binary serializer for C# and Unity.
+- [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack): Zero encoding extreme performance binary serializer for C# and Unity.
