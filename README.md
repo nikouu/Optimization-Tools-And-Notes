@@ -70,6 +70,12 @@ Visual Studio extension to disassemble methods or classes. Similar to IlLSpy but
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EgorBogatov.Disasmo)
 [Disasmo GitHub](https://github.com/EgorBo/Disasmo)
 
+## ObjectLayoutInspector
+
+Getting an instance layout at runtime
+
+[ObjectLayoutInspector GitHub](https://github.com/SergeyTeplyakov/ObjectLayoutInspector)
+
 ## DotNet Performance Lab Results
 
 The results of [dotnet/performance](https://github.com/dotnet/performance) runs to check for regressions: [Lab Reports](https://pvscmdupload.blob.core.windows.net/reports/allTestHistory/TestHistoryIndexIndex.html)
