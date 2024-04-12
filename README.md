@@ -76,6 +76,12 @@ Getting an instance layout at runtime
 
 [ObjectLayoutInspector GitHub](https://github.com/SergeyTeplyakov/ObjectLayoutInspector)
 
+## Clr Heap Allocation Analyzer
+
+Detects explicit and implicit allocations, boxings, closures, etc
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer&ssr=false#overview)
+
 ## DotNet Performance Lab Results
 
 The results of [dotnet/performance](https://github.com/dotnet/performance) runs to check for regressions: [Lab Reports](https://pvscmdupload.blob.core.windows.net/reports/allTestHistory/TestHistoryIndexIndex.html)
