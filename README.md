@@ -10,6 +10,7 @@ Want to see how Microsoft does it? Check out their [documentation for profiling 
 Built-in code profiler for Visual Studio
 
 [Official Docs](https://learn.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
+
 [Reducing Compute Costs Docs](https://learn.microsoft.com/en-us/visualstudio/profiling/optimize-code-using-profiling-tools?view=vs-2022)
 
 ## ILSpy
@@ -68,6 +69,7 @@ ildasm binary.exe
 Visual Studio extension to disassemble methods or classes. Similar to IlLSpy but in Visual Studio.
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EgorBogatov.Disasmo)
+
 [Disasmo GitHub](https://github.com/EgorBo/Disasmo)
 
 ## ObjectLayoutInspector
@@ -81,6 +83,14 @@ Getting an instance layout at runtime
 Detects explicit and implicit allocations, boxings, closures, etc
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer&ssr=false#overview)
+
+## GummyCat
+
+GC Memory Visualiser
+
+[Announcement Tweet via Kevin Gosse]([https://minidump.net/gummycat/](https://twitter.com/KooKiz/status/1762444411546357809))
+
+[Blog post via Kevin Gosse](https://minidump.net/gummycat/)
 
 ## DotNet Performance Lab Results
 
