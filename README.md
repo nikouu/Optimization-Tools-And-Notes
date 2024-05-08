@@ -88,7 +88,7 @@ Detects explicit and implicit allocations, boxings, closures, etc
 
 GC Memory Visualiser
 
-[Announcement Tweet via Kevin Gosse]([https://minidump.net/gummycat/](https://twitter.com/KooKiz/status/1762444411546357809))
+[Announcement Tweet via Kevin Gosse](https://twitter.com/KooKiz/status/1762444411546357809)
 
 [Blog post via Kevin Gosse](https://minidump.net/gummycat/)
 
