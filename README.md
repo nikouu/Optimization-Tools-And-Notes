@@ -39,6 +39,12 @@ Powerful .NET library for benchmarking
 
 [GitHub Repo](https://github.com/dotnet/BenchmarkDotNet)
 
+## Source browser for .NET
+
+While not an optimization tool, it's useful and easy to navigate the .NET repo - easier than GitHub.
+
+[.NET Source Browser](https://source.dot.net/)
+
 ## DependencyGraphViewer
 
 See what methods are kept after AOT trimming
